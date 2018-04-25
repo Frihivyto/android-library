@@ -1,0 +1,3 @@
+/home/i12magaf/AVA/android_projects/twinmodules/app/.externalNativeBuild/cmake/releaseSdk/x86_64/CMakeFiles/rebuild_cache.dir
+/home/i12magaf/AVA/android_projects/twinmodules/app/.externalNativeBuild/cmake/releaseSdk/x86_64/CMakeFiles/edit_cache.dir
+/home/i12magaf/AVA/android_projects/twinmodules/app/.externalNativeBuild/cmake/releaseSdk/x86_64/CMakeFiles/native-lib.dir
