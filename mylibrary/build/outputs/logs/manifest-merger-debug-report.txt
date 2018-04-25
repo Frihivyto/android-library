@@ -1,43 +1,43 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
-INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
-INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
-INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
-INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
-INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
-INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
+ADDED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
 	package
-		ADDED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:3:5-36
-		INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
-		INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
+		ADDED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
-		ADDED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
-		INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
+		ADDED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
+		INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
-		ADDED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
-		INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
+		ADDED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:2:1-12:12
+		INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:5:5-10:19
+ADDED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:5:5-10:19
 activity#com.example.mylibrary.libActivity
-ADDED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:6:9-9:20
+ADDED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:6:9-9:20
 	android:name
-		ADDED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml:7:13-61
+		ADDED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml:7:13-61
 uses-sdk
-INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
-INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
-INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
-INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
+INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
+INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
+INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
+INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
-		ADDED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
-		INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
+		ADDED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
-		ADDED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
-		INJECTED from /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
+		ADDED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/i12magaf/AVA/android_projects/android-library/mylibrary/src/main/AndroidManifest.xml

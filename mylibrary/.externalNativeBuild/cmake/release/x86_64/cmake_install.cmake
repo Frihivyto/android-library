@@ -1,4 +1,4 @@
-# Install script for directory: /home/i12magaf/AVA/android_projects/twinmodules/mylibrary
+# Install script for directory: /home/i12magaf/AVA/android_projects/android-library/mylibrary
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/i12magaf/AVA/android_projects/twinmodules/mylibrary/.externalNativeBuild/cmake/release/x86_64/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/i12magaf/AVA/android_projects/android-library/mylibrary/.externalNativeBuild/cmake/release/x86_64/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

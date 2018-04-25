@@ -2,11 +2,11 @@
 {
 	"buildFiles" : 
 	[
-		"/home/i12magaf/AVA/android_projects/twinmodules/mylibrary/CMakeLists.txt"
+		"/home/i12magaf/AVA/android_projects/android-library/mylibrary/CMakeLists.txt"
 	],
 	"cleanCommands" : 
 	[
-		"/home/i12magaf/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+		"/home/i12magaf/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/i12magaf/AVA/android_projects/android-library/mylibrary/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
 	],
 	"cppFileExtensions" : [ "cpp" ],
 	"libraries" : 
@@ -15,18 +15,18 @@
 		{
 			"abi" : "armeabi-v7a",
 			"artifactName" : "library_lib",
-			"buildCommand" : "/home/i12magaf/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/i12magaf/AVA/android_projects/twinmodules/mylibrary/.externalNativeBuild/cmake/debug/armeabi-v7a --target library_lib",
+			"buildCommand" : "/home/i12magaf/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/i12magaf/AVA/android_projects/android-library/mylibrary/.externalNativeBuild/cmake/debug/armeabi-v7a --target library_lib",
 			"buildType" : "debug",
 			"files" : 
 			[
 				
 				{
 					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/home/i12magaf/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64 --sysroot=/home/i12magaf/Android/Sdk/ndk-bundle/sysroot  -Dlibrary_lib_EXPORTS -isystem /home/i12magaf/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /home/i12magaf/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /home/i12magaf/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /home/i12magaf/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=23 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "/home/i12magaf/AVA/android_projects/twinmodules/mylibrary/src/cpp/library.cpp",
-					"workingDirectory" : "/home/i12magaf/AVA/android_projects/twinmodules/mylibrary/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"src" : "/home/i12magaf/AVA/android_projects/android-library/mylibrary/src/cpp/library.cpp",
+					"workingDirectory" : "/home/i12magaf/AVA/android_projects/android-library/mylibrary/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				}
 			],
-			"output" : "/home/i12magaf/AVA/android_projects/twinmodules/mylibrary/build/intermediates/cmake/debug/obj/armeabi-v7a/liblibrary_lib.so",
+			"output" : "/home/i12magaf/AVA/android_projects/android-library/mylibrary/build/intermediates/cmake/debug/obj/armeabi-v7a/liblibrary_lib.so",
 			"toolchain" : "5746191075543842685"
 		}
 	},

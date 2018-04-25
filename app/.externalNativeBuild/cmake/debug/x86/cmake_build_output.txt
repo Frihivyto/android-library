@@ -12,4 +12,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/i12magaf/AVA/android_projects/twinmodules/app/.externalNativeBuild/cmake/debug/x86
+-- Build files have been written to: /home/i12magaf/AVA/android_projects/android-library/app/.externalNativeBuild/cmake/debug/x86
